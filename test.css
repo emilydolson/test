@@ -2,7 +2,7 @@ circle {
   cx: 10;
   cy: 10;
   r: 10;
-  color: green;
+  fill: green;
 }
 
 svg {
