@@ -1,8 +1,8 @@
 circle {
   cx: 10;
-  cy:10;
-  r:10;
-  fill:"green";
+  cy: 10;
+  r: 10;
+  color:"green";
 }
 
 svg {
